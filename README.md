@@ -1,8 +1,3 @@
----
-author: Xinke Song
----
-
-
 # Supplemental Rationale
 
 
